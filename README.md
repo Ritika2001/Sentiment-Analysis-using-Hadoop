@@ -21,5 +21,5 @@ https://data-flair.training/blogs/apache-pig-installation-ubuntu-tutorial/
 
 >hdfs dfs -copyFromLocal <localsrc> URI
  
-**Run teh pig script**
+**Run the pig script**
 >pig -x mapreduce scriptmapred.pig
